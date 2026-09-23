@@ -1,4 +1,4 @@
-Montagem de analise para realizaçãoda atividade Praticando da aula 7
+Montagem de analise de dados 
 
 Pontos Elaborados 
 
